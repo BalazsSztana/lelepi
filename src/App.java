@@ -1,6 +1,6 @@
 /*
 * File: App.java
-* Author: Sztana Balázs
+* Author: Sztana Balázs, SZOFT I-2-E
 * Copyright: 2023, Sztana Balázs
 * Date: 2023-05-23
 *
